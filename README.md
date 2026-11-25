@@ -40,7 +40,7 @@
 <div align="center">
 
 #### **Languages**
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,sql,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,postgresql,html,css" alt="Languages" />
 
 #### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind" alt="Frameworks" />
