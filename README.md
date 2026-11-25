@@ -2,7 +2,7 @@
 
   <!-- Animated Greeting Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=650&lines=Hello+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;Hi%2C+I'm+Krishabh!+%F0%9F%9A%80;Software+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+    <img width="100%" src="./banner.svg.svg" alt="Krishabh Banner" />
   </a>
 
   <h3>Full-Stack Developer • Python & TypeScript • Data Structures & Algorithms</h3>
